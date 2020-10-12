@@ -1,2 +1,3 @@
 # Python_101_Workspaces
-Workspaces for students taking Python 101
+To run click:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/woocashh/Python_101_Workspaces/main)
